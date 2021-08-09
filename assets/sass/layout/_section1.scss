@@ -1,0 +1,15 @@
+.section1{
+    display: flex;
+    .section1__texto{
+      width: 40%;
+      text-align: left;
+      margin: 1rem 4rem 1rem 4rem;
+      
+    }
+    .section1__imagen{
+        width: 60%;
+        text-align: right;
+        
+    }
+    
+}

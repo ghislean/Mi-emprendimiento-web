@@ -1,0 +1,22 @@
+.navbar{
+    
+    font-style: $white;
+    display: flex;
+    
+    .navbar__logo{
+    background-color:$smoky-black;
+     color: $white;
+     height:5rem;
+     width: 5rem;
+     display:flex;
+    }
+    .navbar__menu{
+     color: $smoky-black;
+     display: flex;
+     
+    }
+    .navbar__fondo{
+       display: flex;
+       
+    }
+}
